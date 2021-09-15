@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-P9VMXQz7X](https://www.frontendmentor.io/solutions/order-summary-component-P9VMXQz7X)
--   Live Site URL: [https://www.frontendmentor.io/solutions/order-summary-component-P9VMXQz7X](https://beslerpatryk.github.io/order_summary_component/)
+-   [Solution](https://www.frontendmentor.io/solutions/order-summary-component-P9VMXQz7X)
+-   [Live Site](https://beslerpatryk.github.io/order_summary_component/)
 
 ## My process
 
